@@ -1,9 +1,9 @@
 <?php
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-$servername = "45.228.233.78";
-$username = "oscrod89_commers";
-$password = "CbTl45226154";
-$dbname = "oscrod89_commers";
+$servername = "bb5xoxs42xobjjvazgrw-mysql.services.clever-cloud.com";
+$username = "uzyvl6udxqtpzhjm";
+$password = "HJms5uW5Z3AoDzTFzire";
+$dbname = "bb5xoxs42xobjjvazgrw";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
